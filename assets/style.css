@@ -176,9 +176,14 @@ ul{
 
 #footer2 {
     text-decoration: none;
-   
     color: white;
-    padding-bottom: 10px;
-   
+    padding-bottom: 10px; 
+}
+
+.mwl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
 }
 
